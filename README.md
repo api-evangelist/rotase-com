@@ -1,4 +1,4 @@
-# rotase-com
+# Rotase
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,122 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-rotase-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://rotase.com/
+Rotase provides a free employee schedule generator for businesses. The web‑app lets teams create, edit, print and export work schedules without requiring an account or subscription. It supports multiple languages, respects hour limits and rest periods, and runs calculations client‑side while keeping project data private.
+
+**Areas:** Company · Scheduling · FreeTool · EmployeeManagement · SaaS
+
+## Rotase on APIs.io
+
+Everything profiled for Rotase is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/rotase-com/](https://apis.io/providers/rotase-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (11)
+
+- [Rotase Calendars API](https://apis.io/apis/rotase-com/rotase-com-calendars-api/) — The Calendars API from Rotase — 1 operation(s) for calendars.
+- [Rotase Docs API](https://apis.io/apis/rotase-com/rotase-com-docs-api/) — The Docs API from Rotase — 1 operation(s) for docs.
+- [Rotase Employee Schedule Planner API](https://apis.io/apis/rotase-com/rotase-com-employee-schedule-planner-api/) — The Employee Schedule Planner API from Rotase — 1 operation(s) for employee schedule planner.
+- [Rotase Employees API](https://apis.io/apis/rotase-com/rotase-com-employees-api/) — The employees API from Rotase — 2 operation(s) for employees.
+- [Rotase Examples API](https://apis.io/apis/rotase-com/rotase-com-examples-api/) — The Examples API from Rotase — 4 operation(s) for examples.
+- [Rotase Feedback API](https://apis.io/apis/rotase-com/rotase-com-feedback-api/) — The Feedback API from Rotase — 2 operation(s) for feedback.
+- [Rotase Health API](https://apis.io/apis/rotase-com/rotase-com-health-api/) — The Health API from Rotase — 1 operation(s) for health.
+- [Rotase Openapi.json API](https://apis.io/apis/rotase-com/rotase-com-openapi-json-api/) — The Openapi.json API from Rotase — 1 operation(s) for openapi.json.
+- [Rotase Projects API](https://apis.io/apis/rotase-com/rotase-com-projects-api/) — The Projects API from Rotase — 4 operation(s) for projects.
+- [Rotase Schedules API](https://apis.io/apis/rotase-com/rotase-com-schedules-api/) — The schedules API from Rotase — 9 operation(s) for schedules.
+- [Rotase Stores API](https://apis.io/apis/rotase-com/rotase-com-stores-api/) — The stores API from Rotase — 7 operation(s) for stores.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Rotase Agentic Access](https://apis.io/agentic-access/rotase-com/rotase-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Rotase Com Context](https://apis.io/jsonld/rotase-com/rotase-com-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Rotase Openapi Overlay](https://apis.io/overlays/rotase-com/rotase-com-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Rotase API Rules](https://apis.io/rules/rotase-com/rotase-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Rotase Domain Security](https://apis.io/security/rotase-com/rotase-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://rotase.com/)
+- [Documentation](https://rotase.com/en/help/)
+- [Privacy policy](https://rotase.com/en/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 29.9** — thin · rubric 0.28.0 · scored 2026-11-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.3 |
+| Contract quality | 46.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 16.0 |
+| Access clarity | 8.5 |
+
+**Agent readiness 40.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 8.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/rotase-com/](https://apis.io/providers/rotase-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Rotase: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/rotase-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
